@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: q3cljdhu.dwsdf7tx@ltmcjdjo.com
     createdAt: '2025-09-19 23:32:39'
     configurations:
-      pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM/dev:
-        name: dev
-        author: null
-        createdAt: '2025-09-19 23:32:39'
       pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM/dev2:
         name: dev2
-        author: null
-        createdAt: '2025-09-19 23:32:39'
-      pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM/dev3:
-        name: dev3
         author: null
         createdAt: '2025-09-19 23:32:39'
     basePipeline: 284/pipelines/Alva_ReichertNida_LyteFred_Kunde_DVM
