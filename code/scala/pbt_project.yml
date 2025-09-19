@@ -1,0 +1,75 @@
+name: florinda.conn
+description: systemic
+version: 0.0.1
+author: q3cljdhu.dwsdf7tx@ltmcjdjo.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: florindaconn
+  parentArtefactID: q3cljdhudwsdf7txltmcjdjocomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:32:38'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:32:38'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:32:38.272492Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '2072920815'
+  createdAt: '2025-09-19T23:32:38.272492Z'
+  type: plibMaven
+projectDependencies:
+  '284':
+    projectUID: 284
+    projectName: robert.runolfsdottir
+    repositoryPath: gitUri=http://gitserver:3000/dev_2g7HqCYS_team_545/dev_2g7HqCYS_project_284.git&subPath=
+    version: robert.runolfsdottir/7.2.272
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:32:38'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM:
+    author: q3cljdhu.dwsdf7tx@ltmcjdjo.com
+    createdAt: '2025-09-19 23:32:39'
+    configurations:
+      pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM/dev:
+        name: dev
+        author: null
+        createdAt: '2025-09-19 23:32:39'
+      pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM/dev2:
+        name: dev2
+        author: null
+        createdAt: '2025-09-19 23:32:39'
+      pipelineConfigurations/robert.runolfsdottir/Alva_ReichertNida_LyteFred_Kunde_DVM/dev3:
+        name: dev3
+        author: null
+        createdAt: '2025-09-19 23:32:39'
+    basePipeline: 284/pipelines/Alva_ReichertNida_LyteFred_Kunde_DVM
+projectConfigurations: {}
